@@ -202,3 +202,4 @@ let myObject = {
 
 console.log("Завдання 10 ====================================");
 console.log(useSymbolIterator(myObject)); //Виведе [ 'apple', 'banana', 'orange', 'grape', 'mango' ]
+console.log(2s)
